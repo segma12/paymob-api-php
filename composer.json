@@ -1,5 +1,5 @@
 {
-  "name": "segma/paymob-php-sdk",
+  "name": "segma/paymob-php-api",
   "description": "A PHP plugin for Paymob payment gateway.",
   "type": "library",
   "license": "MIT",
